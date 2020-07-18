@@ -6,7 +6,7 @@ This app is developed to facilitate the tourists from five different countries t
 
 
 
-##Demo of our app 
+## Demo of our app 
 
 
 
