@@ -11,8 +11,15 @@ This app is developed to facilitate the tourists from five different countries t
 
 
 ![alt text](<https://github.com/adilwahla/Benzene/blob/master/demo/WhatsApp%20Image%202020-07-11%20at%209.39.13%20PM.jpeg>)
-# make profile
+# Make profile here!
 ![alt text](<https://github.com/adilwahla/Benzene/blob/master/demo/WhatsApp%20Image%202020-07-13%20at%2010.11.34%20AM.jpeg>)
+# Our Weather Module
+
+## you can search any city's temperature round the globe we used accuWeather api to get weather
+Besides this you can get followings:
+- weather Recommendations (forecast) for a week ahead
+-
+-
 ![alt text](<https://github.com/adilwahla/Benzene/blob/master/demo/WhatsApp%20Image%202020-07-13%20at%2010.11.35%20AM%20(1).jpeg>)
 ![alt text](<https://github.com/adilwahla/Benzene/blob/master/demo/WhatsApp%20Image%202020-07-13%20at%2010.11.35%20AM.jpeg>)
 ## What are our features
