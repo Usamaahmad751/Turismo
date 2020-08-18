@@ -8,7 +8,7 @@ This app is developed to facilitate the tourists from different countries to nav
 @Copyright
 - Usama Ahmad- Tariq Malik- Adil Rehman
 
-##Technologies
+## Technologies
 Dart | Flutter | Google Places API
 
 ## Demo of our app 
