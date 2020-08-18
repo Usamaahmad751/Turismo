@@ -1,17 +1,17 @@
 # Turismo
-![Turismore](<https://github.com/adilwahla/Benzene/blob/master/demo/WhatsApp%20Image%202020-07-12%20at%205.13.08%20PM.jpeg>)
+
 
 ## Our Goal
-This app is developed to facilitate the tourists from five different countries to navigate particular points, nearby hotels, restaurants and emergency places. This app is available in five different languages. Weather facility motivates the tourists to check weather conditions for any particular place before making a trip.This app will target Globally besides Locally.
+This app is developed to facilitate the tourists from different countries to navigate particular points, nearby hotels, restaurants and emergency places. This app is available in five different languages. Weather facility motivates the tourists to check weather conditions for any particular place before making a trip.This app will target Globally besides Locally.
+
 ## Developed By:
 @Copyright
-- Usama Ahmad- TariQ Malik- Adil Rehman
+- Usama Ahmad- Tariq Malik- Adil Rehman
 
-
+##Technologies
+Dart | Flutter | Google Places API
 
 ## Demo of our app 
-
-
 
 ![home page](<https://github.com/adilwahla/Benzene/blob/master/demo/WhatsApp%20Image%202020-07-11%20at%209.39.13%20PM.jpeg>)
 # Make profile here!
